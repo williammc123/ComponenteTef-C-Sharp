@@ -1,0 +1,12 @@
+C:\Repositorio\ComponenteTef\ComponenteTef\bin\Debug\ComponenteTef.exe
+C:\Repositorio\ComponenteTef\ComponenteTef\bin\Debug\ComponenteTef.pdb
+C:\Repositorio\ComponenteTef\ComponenteTef\bin\Debug\Cappta.Gp.Api.Com.dll
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.ComponenteTef.resources
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.Mensagens.resources
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.Properties.Resources.resources
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.csproj.GenerateResource.Cache
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.csproj.CoreCompileInputs.cache
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.exe
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.pdb
+C:\Repositorio\ComponenteTef\ComponenteTef\obj\Debug\ComponenteTef.csprojResolveAssemblyReference.cache
+C:\Repositorio\ComponenteTef\ComponenteTef\bin\Debug\ComponenteTef.exe.config
